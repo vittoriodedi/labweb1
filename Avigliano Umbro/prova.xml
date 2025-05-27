@@ -1,0 +1,46 @@
+
+    <form action = "/submit" method="POST">
+        <label for="name">Nome:</label>
+        <input type="text" id="name" name="name">
+        <input type="submit" value="Typhlosion">
+
+    </form>
+
+    <form action = "/submit" method="POST">
+        <label for="age">Età:</label>
+        <input type="checkbox" id="age" name="age">
+        <input type="submit" value="Typhlosion">
+        <input type="reset" value="Diddy">
+
+
+    </form>
+    <form action = "/submit" method="POST">
+        <label for="age">Età:</label>
+        <input type="radio" id="age" name="age">
+        
+
+    </form>
+
+    <select id="frutta" name="frutta">
+        <optgroup label="hey">
+        <option value="limone">diddy</option>
+        <option value="limone">typhlosion</option>
+        </optgroup>
+
+    </select>
+
+
+
+
+
+
+
+
+     
+
+
+
+    <textarea name="" id="" cols="30" rows="10" placeholder="esempio: mario"></textarea>
+
+
+    <button type="button" onclick="alert('Diooooo Caneeeeeeeeeeeeee')">Clicca qui</button>

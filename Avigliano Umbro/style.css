@@ -1,0 +1,184 @@
+/*  background-color: rgb(202, 202, 202); 
+    background-color: rgb(202, 202, 202); 
+    background: linear-gradient(45deg, #08680890, #6d330d5c);
+    background-color: rgba(5, 72, 22, 0.258);  */
+
+.headerverde{
+    display: flex;
+    justify-content: center; 
+    
+}
+.slottitolo {
+    background: linear-gradient(45deg, #08680890, #6d330d5c);
+    background-color: rgba(5, 72, 22, 0.258);
+    margin-top: 10px;
+    margin-bottom: 10px;
+    width: 90%; 
+    padding: 20px;
+    border-top-right-radius: 30px ;
+    border-bottom-right-radius: 30px;
+    text-align: center;
+}
+.titoloprincipale{
+    font-weight: 600;
+    margin-left: 50px;
+}
+.slotstemma {
+    background-color: rgb(255, 255, 255);
+    margin-top: 10px;
+    margin-bottom: 10px;
+    width: 10%; 
+    padding: 20px;
+    border-bottom-left-radius: 30px;
+    border-top-left-radius: 30px;
+    text-align: center;
+}
+.barra{
+    background-color: #6c7d473a;
+    width: 90%;
+    margin-left: 4%;
+    border-radius: 20px;
+    padding: 15px;
+    font-size: large;
+    text-align:center;
+}
+.maingallery {
+    display: flex;
+    justify-content: center;
+    gap: 10px;
+}
+.maingallery img {
+    width: 30%;
+    border-radius: 8px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+}
+.containerstoria{
+    display: flex;
+    justify-content: center; 
+    gap: 40px;   
+}
+.zero{
+    background: linear-gradient(90deg, #6c7d473a, #f4f4f4);
+    width: 35%;
+    margin-bottom: 40px;
+    padding: 20px;
+    padding-left: 40px;
+    border-radius: 10px;
+}
+.uno{
+    background: linear-gradient(90deg,#f4f4f4, #6c7d473a);
+    width: 35%;
+    margin-bottom: 40px;
+    padding: 20px;
+    padding-right: 40px;
+    border-radius: 10px;
+}
+.due{
+    background: linear-gradient(90deg, #6c7d473a, #f4f4f4);
+    width: 35%;
+    margin-bottom: 40px;
+    padding: 20px;
+    padding-top: 100px;
+    padding-left: 40px;
+
+    border-radius: 10px;
+}
+.tre{
+    background: linear-gradient(90deg,#f4f4f4, #6c7d473a);
+    width: 35%;
+    margin-bottom: 40px;
+    padding: 20px;
+    padding-right: 40px;
+    border-radius: 10px;
+}
+.containerfesta {
+    display: flex;
+    justify-content: center; 
+    gap: 40px;   
+}
+.containerfesta img{
+    width: 80%;
+    border-radius: 8px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+}
+.testofrazioni{
+    display: flex;
+    justify-content: space-between;
+    width: 90%;
+    margin-left: 5%;
+    font-size: 20px;
+}
+a{
+    color: #6c7d47;
+}
+.testo1{
+    background-color: #f4f4f4;
+    width: 24%;
+    border-top-right-radius:  15px;
+    border-top-left-radius:  15px;
+
+}
+.stemma {
+    width: 50%;
+    margin-top: 20px;
+    margin-bottom: auto;
+}
+h1{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 3.5em;
+    text-align: left;
+}  
+video{
+    margin-top: 60px;
+    width: 80%;
+}
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #f4f4f4;
+}
+
+header {
+    background: #6c7d47;
+    color: #fff;
+    padding: 20px;
+    text-align: center;
+}
+
+main {
+    padding: 20px;
+    text-align: center;
+}
+
+
+
+.frazioni {
+    display: flex;
+    justify-content: center;
+    gap: 10px;
+}
+.frazioni img {
+    width: 22.4%;
+    border-radius: 8px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+}
+h2 {
+    color: #6c7d47;
+    text-align: start;
+    margin-left: 12%;
+    margin-top: 1.5em;
+    margin-bottom: 0.5em;
+    font-size: 2em;
+}
+
+
+footer {
+    background: #333;
+    color: #fff;
+    text-align: center;
+    padding: 10px 0;
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+}
