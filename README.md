@@ -1,6 +1,6 @@
 # labweb1
 
-This repository contains my “Laboratorio Programmazione Web 1” course final project
+This repository contains my “Laboratorio Programmazione Web 1” course final project.
 
 ## Overview
 
